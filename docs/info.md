@@ -9,16 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
 all switches ON the LED display letter A
 
 ## How to test
 
-Explain how to use your project
 Set the inputs all to zero -  LED OFF
 To test each AND and the corresponding LED BAR set the switches connected to each AND to ON.
 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external display
